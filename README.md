@@ -2,7 +2,7 @@
 
 A web-based Armenian-language version of the classic quiz game “Who Wants to Be a Millionaire?”, built with PHP, JavaScript, and MySQL. Players register, log in, answer multiple-choice questions of increasing difficulty, and try to reach the top prize. An admin panel lets the game's questions be managed.
 
-🎤 **Presentation:** [View the project on Prezi](PASTE_YOUR_PREZI_LINK_HERE)
+🎤 **Presentation:** [View the project on Prezi](https://prezi.com/p/ubycnxoofbqz/?present=1)
 
 ---
 
